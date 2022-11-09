@@ -229,4 +229,4 @@ Files accessed through the local file system have the following requirement:
 [![Donate button](https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif)](http://goo.gl/DSvWf)
 
 *If you find this project useful, please consider making a donation.
-Any funds donated will be used to help further development on this project.)*
+Any funds donated will be used to help further development on this project :).)*
